@@ -1,0 +1,9 @@
+{
+    "require": {
+        "mpdf/mpdf": "^8.0",
+        "setasign/fpdf": "^1.8",
+        "paragonie/random_compat": "^9.99",
+        "myclabs/deep-copy": "^1.10",
+        "psr/log": "^1.1"
+    }
+}
